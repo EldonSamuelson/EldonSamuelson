@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @EldonSamuelson. It's an anagram for my name.
+- 👋 Hi, I’m @EldonSamuelson. It's an anagram.
 - 👀 I’m interested in remote sensing 🛰️, film photography 🎞️📷, and website development 👷🌐.
 - 🌱 I’m learning all the time, but currently I'm working an internship with [Aquascope](https://aquascope.com/) to estimate water balance aspects and monitor water quality with satellite data.
 - ⌛ Previously I:
