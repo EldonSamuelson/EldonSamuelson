@@ -1,6 +1,9 @@
 👋 Hi, I’m @EldonSamuelson. It's an anagram.
+
 👀 I’m interested in remote sensing 🛰️, film photography 🎞️📷, and website development 👷🌐.
+
 🌱 I’m learning all the time, but currently I'm work as a GIS & Remote Sensing Specialist at [Aquascope](https://aquascope.com/)
+
 ⌛ Previously I:
   - 📜 :scotland:🎓Graduated with Distinction for my MSc in GIS at the University of Edinburgh in 2021
     - 📜 [Looked into plastic detection and water monitoring using Sentinel satellites for my Master's Dissertation](https://www.geos.ed.ac.uk/~mscgis/20-21/s2133927/)
