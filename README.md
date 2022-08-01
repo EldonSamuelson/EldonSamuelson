@@ -1,4 +1,4 @@
-👋 Hi, I’m @EldonSamuelson. It's an anagram.
+👋 Hi, I’m @EldonSamuelson. It's an anagram, my name is Séamus.
 
 👀 I’m interested in remote sensing 🛰️, film photography 🎞️📷, and website development 👷🌐.
 
