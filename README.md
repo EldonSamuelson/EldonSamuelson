@@ -2,7 +2,9 @@
 
 👀 I’m interested in remote sensing 🛰️, film photography 🎞️📷, and website development 👷🌐.
 
-🌱 I’m learning all the time, but currently I'm work as a GIS & Remote Sensing Specialist at [Aquascope](https://aquascope.com/)
+⏰ Currently I: 
+  - 🌊 Am a GIS & Remote Sensing Specialist at [Aquascope](https://aquascope.com/)
+  - 🌐 Manage some hobby pages on the internet
 
 ⌛ Previously I:
   - 📜 :scotland:🎓Graduated with Distinction for my MSc in GIS at the University of Edinburgh in 2021
