@@ -3,7 +3,7 @@
 👀 I’m interested in remote sensing 🛰️, film photography 🎞️📷, and website development 👷🌐.
 
 ⏰ Currently I: 
-  - 🌊 Am a GIS & Remote Sensing Specialist at [Aquascope](https://aquascope.com/)
+  - 🌊 Am a GIS & Remote Sensing Specialist at [Aquascope](https://www.aquascope.com/)
   - 🌐 Manage some hobby pages on the internet
 
 ⌛ Previously I:
